@@ -1,0 +1,6 @@
+{
+  "name": "ChemLab X",
+  "description": "Virtual Chemistry Laboratory with interactive periodic table, 3D molecular viewer, atom animation, reaction simulator, and virtual chemistry lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
